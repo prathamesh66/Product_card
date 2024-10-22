@@ -1,6 +1,6 @@
 * Coffee Mug Product Page
 
-This project showcases a stylish product page for a coffee mug, designed using HTML and CSS. It features an image of the product, a description, pricing information, and an "Add to Cart" button, providing a clean and user-friendly interface.
+This project showcases a stylish product page for a coffee mug, designed using HTML and CSS. It features an image of the product, a description, pricing information, and an "Add to Cart" button, providing a clean and user-friendly interface..
 
 * Features
   
